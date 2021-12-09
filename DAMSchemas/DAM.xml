@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!-- Matisse XML Document -->
+<!-- Generated with Matisse XML Manager x64 Version 9.1.12.0 -->
+<!-- Generation date: 2021-12-09 14:11:54 -->
+<!-- Produced from database 'DAM@DESKTOP-4PC1QD0' -->
+<!-- Selected Namespace: TrackList -->
+<?mt_xml version="2"
+         container="yes"
+         oid="yes"
+         full="yes"
+         count="2"?>
+<MtContainer>
+
+<TrackList.track oid="4309">
+<TrackURI MtBasicType="MT_STRING">qwe</TrackURI>
+<TrackName MtBasicType="MT_STRING">qwe</TrackName>
+<ArtistURIs MtBasicType="MT_STRING">qwe</ArtistURIs>
+<ArtistNames MtBasicType="MT_STRING">qwe</ArtistNames>
+<AlbumName MtBasicType="MT_STRING">Hola</AlbumName>
+<AlbumArtistURIs MtBasicType="MT_STRING">qwe</AlbumArtistURIs>
+<AlbumArtistNames MtBasicType="MT_STRING">qwe</AlbumArtistNames>
+<AlbumReleaseDate MtBasicType="MT_STRING">2020-12-12</AlbumReleaseDate>
+<AlbumImageURL MtBasicType="MT_STRING">qwe</AlbumImageURL>
+<DiscNumber MtBasicType="MT_STRING">123</DiscNumber>
+<TrackNumber MtBasicType="MT_STRING">123</TrackNumber>
+<TrackDuration MtBasicType="MT_STRING">123</TrackDuration>
+<TrackPreviewURL MtBasicType="MT_STRING">qwe</TrackPreviewURL>
+<Explicit MtBasicType="MT_BOOLEAN">True</Explicit>
+<Popularity MtBasicType="MT_STRING">123</Popularity>
+<AddedBy MtBasicType="MT_STRING">qwe</AddedBy>
+<AddedAt MtBasicType="MT_STRING">2020-12-12</AddedAt>
+</TrackList.track>
+
+<TrackList.track oid="4310">
+<TrackURI MtBasicType="MT_STRING">qddf</TrackURI>
+<TrackName MtBasicType="MT_STRING">vsdre</TrackName>
+<ArtistURIs MtBasicType="MT_STRING">asdawef</ArtistURIs>
+<ArtistNames MtBasicType="MT_STRING">dfvghr</ArtistNames>
+<AlbumURI MtBasicType="MT_STRING">sgfsegf</AlbumURI>
+<AlbumName MtBasicType="MT_STRING">hola</AlbumName>
+<AlbumArtistURIs MtBasicType="MT_STRING">adwgr</AlbumArtistURIs>
+<AlbumArtistNames MtBasicType="MT_STRING">dvdrh</AlbumArtistNames>
+<AlbumReleaseDate MtBasicType="MT_STRING">2020-01-01</AlbumReleaseDate>
+<AlbumImageURL MtBasicType="MT_STRING">sefgtyh</AlbumImageURL>
+<DiscNumber MtBasicType="MT_STRING">34</DiscNumber>
+<TrackNumber MtBasicType="MT_STRING">653</TrackNumber>
+<TrackDuration MtBasicType="MT_STRING">4236345</TrackDuration>
+<TrackPreviewURL MtBasicType="MT_STRING">vdrghd</TrackPreviewURL>
+<Explicit MtBasicType="MT_BOOLEAN">True</Explicit>
+<Popularity MtBasicType="MT_STRING">435</Popularity>
+<AddedBy MtBasicType="MT_STRING">drhgdr</AddedBy>
+<AddedAt MtBasicType="MT_STRING">2020-12-12</AddedAt>
+</TrackList.track>
+
+
+</MtContainer>

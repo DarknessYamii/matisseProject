@@ -1,0 +1,39 @@
+//                         -*-c++-*-
+//
+// Application Schema Description
+// Generated with Matisse Schema Definition Language 9.1.12 
+//
+// Generation date: Thu Dec 09 14:10:14 2021
+// Generated from database 'DAM@DESKTOP-4PC1QD0'
+//
+
+
+
+module TrackList
+{
+
+
+  // Interface Definitions
+  //----------------------
+
+  interface track : persistent {
+    attribute String Nullable TrackURI;
+    attribute String Nullable TrackName;
+    attribute String Nullable ArtistURIs;
+    attribute String Nullable ArtistNames;
+    attribute String Nullable AlbumURI;
+    attribute String Nullable AlbumName;
+    attribute String Nullable AlbumArtistURIs;
+    attribute String Nullable AlbumArtistNames;
+    attribute String Nullable AlbumReleaseDate;
+    attribute String Nullable AlbumImageURL;
+    attribute String Nullable DiscNumber;
+    attribute String Nullable TrackNumber;
+    attribute String Nullable TrackDuration;
+    attribute String Nullable TrackPreviewURL;
+    attribute Boolean Nullable Explicit;
+    attribute String Nullable Popularity;
+    attribute String Nullable AddedBy;
+    attribute String Nullable AddedAt;
+  };
+};
