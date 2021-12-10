@@ -357,7 +357,6 @@ public class MatisseTrack {
         Scanner sc = new Scanner(System.in);
         try {
             Statement statement = dbcon.createStatement();
-            System.out.println("Buscar Canciones según Artista");
             String commandText = "SELECT REF(a) from TrackList.track a";
             ResultSet resultset = statement.executeQuery(commandText);
             track track;
